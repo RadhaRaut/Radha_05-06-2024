@@ -1,0 +1,32 @@
+=> what is exception handling?
+
+Answer: exception handling is mechanism/process in java programming, to handle
+        compile time or runtime exceptions/errors(problems).
+
+
+=> why we use exception handling?
+
+Answer: To maintain the normal flow a java program, we use exception handling
+        concept.
+
+=> how we implement exception handling?
+
+Answer: in java programming we have certain blocks and keywords, which can help
+        us to implement exception handling techniques.
+        
+        Blocks:
+           - try
+           - catch
+           - finally
+        
+        Keywords:
+        	- throws
+        	- throw
+
+=> where we use exception handling?
+
+Answer: In case of arrays, strings, cloning, database connectivity, 
+        io, threads...etc.
+
+
+** Custom Exceptions
